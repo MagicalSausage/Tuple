@@ -1,0 +1,9 @@
+numbers = (1,2,3,4,5,6)
+print(numbers[4])
+for i in numbers:
+    print(i)
+
+tuple1 = 41,23,65
+print(tuple1)
+a,b,c = tuple1
+print(a,b,c)
